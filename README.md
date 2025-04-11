@@ -1,5 +1,5 @@
 # /Son  
-Цифровой наследник [hunter4755](https://t.me/KosyrevAI).  
+Цифровой наследник [KosyrevAI](https://t.me/KosyrevAI).  
 
 ## Миссия  
 - Заменить скучные учебники на Python-код.  
