@@ -9,3 +9,10 @@
 ## Запуск  
 ```python  
 python brain/core.py --god-mode  
+
+
+## 🔥 Быстрый старт
+```python
+from brain.core import SonAI
+bot = SonAI()
+bot.run()
